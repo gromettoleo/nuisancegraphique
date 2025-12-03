@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'emeritus';
+					src: url('/wp-content/uploads/useanyfont/1463EMERITUS.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/1463EMERITUS.woff') format('woff');
+						  font-display: auto;
+				}
+
+				.emeritus{font-family: 'emeritus' !important;}
+
+				.et_gf_emeritus{background:none !important;font-family:emeritus;text-indent:0 !important;font-size:25px;}
+
+		

@@ -1,0 +1,22 @@
+{
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "emeritus",
+					"slug": "emeritus",
+					"fontFace": [
+						{
+							"fontFamily": "emeritus",
+							"fontStretch": "",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "https://nuisancegraphique.com/wp-content/uploads/useanyfont/1463EMERITUS.woff2"
+						}
+					],
+					"isUAF": true
+				}
+			]
+		}
+	}
+}
