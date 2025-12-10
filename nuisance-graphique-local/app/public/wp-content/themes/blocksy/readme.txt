@@ -182,5 +182,3 @@ Source: https://github.com/Mobius1/Selectr
 rellax.js, Copyright 2016 Moe Amaya
 Licenses: MIT License
 Source: https://github.com/dixonandmoe/rellax/
-
-bonjour foubar okéééééééééééé
