@@ -1,0 +1,26 @@
+[23-Dec-2025 18:04:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE_PATH" in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-content\themes\blocksy\functions.php:20
+Stack trace:
+#0 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\class-wp-hook.php(324): template_override('C:\\Users\\grome\\...')
+#1 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('C:\\Users\\grome\\...', Array)
+#2 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php(104): apply_filters('template_includ...', 'C:\\Users\\grome\\...')
+#3 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-blog-header.php(19): require_once('C:\\Users\\grome\\...')
+#4 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\index.php(17): require('C:\\Users\\grome\\...')
+#5 {main}
+  thrown in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-content\themes\blocksy\functions.php on line 20
+[23-Dec-2025 18:06:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "TEMPLATE_PATH" in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-content\themes\blocksy\functions.php:20
+Stack trace:
+#0 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\class-wp-hook.php(324): template_override('C:\\Users\\grome\\...')
+#1 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('C:\\Users\\grome\\...', Array)
+#2 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php(104): apply_filters('template_includ...', 'C:\\Users\\grome\\...')
+#3 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-blog-header.php(19): require_once('C:\\Users\\grome\\...')
+#4 C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\index.php(17): require('C:\\Users\\grome\\...')
+#5 {main}
+  thrown in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-content\themes\blocksy\functions.php on line 20
+[23-Dec-2025 18:08:31 UTC] PHP Warning:  include(./newfrontpage.php): Failed to open stream: No such file or directory in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:08:31 UTC] PHP Warning:  include(): Failed opening './newfrontpage.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:09:35 UTC] PHP Warning:  include(./newfrontpage.php): Failed to open stream: No such file or directory in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:09:35 UTC] PHP Warning:  include(): Failed opening './newfrontpage.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:10:59 UTC] PHP Warning:  include(./newfrontpage.php): Failed to open stream: No such file or directory in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:10:59 UTC] PHP Warning:  include(): Failed opening './newfrontpage.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:16:45 UTC] PHP Warning:  include(newfrontpage.php): Failed to open stream: No such file or directory in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106
+[23-Dec-2025 18:16:45 UTC] PHP Warning:  include(): Failed opening 'newfrontpage.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\grome\Local Sites\nuisance-graphique-local\app\public\wp-includes\template-loader.php on line 106

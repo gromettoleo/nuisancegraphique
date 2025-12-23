@@ -24,7 +24,6 @@ do_action('blocksy:content:bottom');
 		do_action('blocksy:footer:after');
 	?>
 </div>
-<p>je suis maxi con</p>
 <?php wp_footer(); ?>
 
 </body>
